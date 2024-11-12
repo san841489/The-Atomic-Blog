@@ -1,3 +1,4 @@
+import Test from "../Test";
 import FormAddPost from "./FormAddPost";
 import Posts from "./Posts";
 
@@ -6,6 +7,7 @@ function Main() {
     <main>
       <FormAddPost />
       <Posts />
+      <Test />
     </main>
   );
 }

@@ -40,6 +40,7 @@ function PostProvider({ children }) {
         searchQuery,
         setSearchQuery,
         onAddPost: handleAddPost,
+        createRandomPost,
       }}
     >
       {children}

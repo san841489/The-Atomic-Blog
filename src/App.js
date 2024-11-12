@@ -26,6 +26,7 @@ function App() {
       <PostProvider>
         <Header />
         <Main />
+
         <Archive />
         <Footer />
       </PostProvider>
